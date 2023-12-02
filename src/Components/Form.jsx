@@ -48,7 +48,7 @@ const Form = () => {
 
 
         {show ?
-          <h4 style={{ marginLeft: '5vw'}}>Gracias {nombre}, te contactaremos cuando antes vía mail</h4> : null
+          <h4 style={{ marginLeft: '5vw'}}>Gracias {nombre}, te contactaremos cuanto antes vía mail</h4> : null
         }
 
         {error ?
